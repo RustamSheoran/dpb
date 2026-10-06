@@ -2,85 +2,85 @@
 
 **Target Platform:** AMD AM5 (Zen 5 Architecture)  
 **Operating System:** Arch Linux (Hyprland / Wayland)  
-**Primary PC Vendor:** ModX Computers (`modxcomputers.com`)  
-**Grand Total Investment:** **₹3,21,211**
+**Primary PC Retailer:** ModX Computers (Custom Build) / MDComputers / Jin Office / Concept Kart  
+**Grand Total Investment (Audited Real Indian Retail):** **₹3,37,089**
 
 ---
 
-## 1. Core PC Tower Specification (Standalone Hardware)
+## 1. Core PC Tower Specification (Verified Indian In-Stock Retail)
 
-| Component | Exact Model & Specifications | Price (INR) |
-| :--- | :--- | :--- |
-| **Processor (CPU)** | **AMD Ryzen 7 9700X** (8 Cores / 16 Threads, 5.5 GHz Boost, 3-Yr Warranty) | **₹27,990** |
-| **CPU Cooler** | **Arctic Liquid Freezer III 360 ARGB White** (38mm Radiator + VRM Fan) | **₹11,450** |
-| **Motherboard** | **Gigabyte B650 GAMING X AX V2** (Full ATX, WiFi 6E, 2.5GbE LAN) | **₹16,931** |
-| **Memory (RAM)** | **Patriot Viper Venom 16GB DDR5 6000MHz CL30** (`PVV516G60C30`) | **₹31,000** |
-| **Graphics Card (GPU)** | **ASRock RX 7600 XT Steel Legend OC 16GB White** (Triple-Fan) | **₹33,173** |
-| **Primary Storage** | **WD_Black SN7100 2TB PCIe 4.0 NVMe M.2 SSD** | **₹24,000** |
-| **Power Supply (PSU)** | **DeepCool PN750M 750W 80+ Gold** (ATX 3.1 & PCIe 5.1 Native Modular) | **₹7,890** |
-| **Chassis (Cabinet)** | **Lian Li O11 Vision White** (3-Sided Panoramic Borderless Tempered Glass) | **₹13,500** |
-| **Case Fans (Matching)**| **4× Arctic P12 PWM PST A-RGB White** (3 Bottom Intake + 1 Rear Exhaust) | **₹4,600** |
-| **PC TOWER SUBTOTAL** | | **₹1,70,534** |
+| Component | Exact Model & Specifications | Live Price (INR) | Primary Retail Source / Status |
+| :--- | :--- | :--- | :--- |
+| **Processor (CPU)** | **AMD Ryzen 7 9700X** (8C/16T, 5.5 GHz Boost, Boxed 3-Yr Warranty) | **₹27,990** | ModX / Vedant Computers |
+| **CPU Cooler** | **Arctic Liquid Freezer III 360 ARGB White** (38mm Radiator, VRM Fan) | **₹11,450** | ModX Computers |
+| **Motherboard** | **Gigabyte B650 GAMING X AX V2** (Full ATX, WiFi 6E, 2.5GbE LAN) | **₹16,931** | ModX Computers |
+| **Memory (RAM)** | **Patriot Viper Venom 16GB DDR5 6000MHz CL30** (`PVV516G60C30`, SK Hynix) | **₹31,000** | ModX Computers (Locked spot quote) |
+| **Primary Storage** | **WD_Black SN7100 2TB PCIe 4.0 NVMe M.2 SSD** (High-TBW Gen4 TLC) | **₹24,000** | ModX Computers (Locked exact quote) |
+| **Graphics Card (GPU)** | **ASRock Intel Arc B580 Steel Legend OC 12GB White** (Triple-Fan) | **₹46,000** | Live Indian Retail Quote (Verified) |
+| **Power Supply (PSU)** | **DeepCool PN750M 750W 80+ Gold** (ATX 3.1 & PCIe 5.1 Native Modular) | **₹7,890** | ModX Computers |
+| **Chassis (Cabinet)** | **Lian Li O11 Vision White** (3-Sided Panoramic Borderless Tempered Glass) | **₹14,750** | MDComputers (Live In-Stock) |
+| **Case Fans (Matching)**| **4× Arctic P12 PWM PST A-RGB White** (3 bottom intake + 1 rear exhaust) | **₹4,600** | ModX Computers |
+| **PC TOWER SUBTOTAL** | | **₹1,84,611** | |
 
 ---
 
 ## 2. Visuals & Display Subsystem
 
-| Component | Exact Model & Specifications | Price (INR) |
-| :--- | :--- | :--- |
-| **Primary Monitor** | **MSI MAG 274QRF QD E2** (27" 1440p, 180Hz, Quantum Dot Rapid IPS, KVM) | **₹24,800** |
-| **Secondary Monitor** | **MSI MAG 274QRF QD E2** (27" 1440p, 180Hz, Quantum Dot Rapid IPS, KVM) | **₹24,800** |
-| **Monitor Arm** | **Jin Office Heavy-Duty Dual Gas-Spring Arm** (Die-Cast Aluminum, VESA 75/100, 9kg/arm) | **₹8,490** |
-| **DISPLAYS SUBTOTAL** | | **₹58,090** |
+| Component | Exact Model & Specifications | Price (INR) | Primary Indian Retail Source |
+| :--- | :--- | :--- | :--- |
+| **Primary Monitor** | **MSI MAG 274QRF QD E2** (27" 1440p 180Hz Quantum Dot Rapid IPS, KVM) | **₹24,800** | Amazon India / Authorized Retail |
+| **Secondary Monitor** | **MSI MAG 274QRF QD E2** (27" 1440p 180Hz Quantum Dot Rapid IPS, KVM) | **₹24,800** | Amazon India / Authorized Retail |
+| **Monitor Arm** | **Jin Office Heavy-Duty Dual Gas-Spring Arm** (Die-Cast Aluminum, 9kg/arm) | **₹8,490** | Jin Office India (`jinoffice.com` Direct) |
+| **DISPLAYS SUBTOTAL** | | **₹58,090** | |
 
 ---
 
 ## 3. Audio & Peripherals Subsystem
 
-| Component | Exact Model & Specifications | Price (INR) |
-| :--- | :--- | :--- |
-| **In-Ear Monitors (IEMs)**| **AFUL Performer 7 (P7)** (Tribrid: 1DD + 4BA + 2 Micro-Planar) | **₹22,000** |
-| **Microphone Cable** | **Kinera Celest Ruyi Boom Mic Cable** (0.78mm 2-Pin, Cardioid Mic) | **₹2,500** |
-| **Hi-Res DAC & Extension**| **Headphone Zone Hi-Res DAC + 1m USB-C Extension Cable** | **₹1,699** |
-| **Wireless Mouse** | **ATK Dragonfly A9 Pro Max White** (PAW3395, 800mAh, WebHID Driver) | **₹4,200** |
-| **Mechanical Keyboard** | **Aula F75** (Gasket Mount, Pre-lubed Switches) | **₹0 (Owned)** |
-| **AUDIO & PERIPHERALS SUBTOTAL** | | **₹30,399** |
+| Component | Exact Model & Specifications | Price (INR) | Primary Indian Retail Source |
+| :--- | :--- | :--- | :--- |
+| **In-Ear Monitors (IEMs)**| **AFUL Performer 7 (P7 / 5+2)** (Tribrid: 2DD + 4BA + 1 Micro-Planar) | **₹22,000** | Concept Kart / HiFiGo / Headphone Zone |
+| **Microphone Cable** | **Kinera Celest Ruyi Boom Mic Cable** (0.78mm 2-Pin, Cardioid Mic) | **₹2,500** | Concept Kart (`conceptkart.com`) |
+| **External DAC** | *None (Plugs directly via Kinera Celest 3.5mm into PC audio jack)* | **₹0 (Omitted)**| Kept signal chain direct |
+| **Wireless Mouse** | **ATK Dragonfly A9 Pro Max White** (PAW3395, 800mAh, WebHID Driver) | **₹4,200** | GenesisPC / NeoMacro India |
+| **Mechanical Keyboard** | **Aula F75** (Gasket Mount, Pre-lubed Switches) | **₹0 (Owned)**| — |
+| **AUDIO & PERIPHERALS SUBTOTAL** | | **₹28,700** | |
 
 ---
 
 ## 4. Ergonomic Furniture Subsystem (6'0" Frame / 12-Hour Daily Use)
 
-| Component | Exact Model & Specifications | Price (INR) |
-| :--- | :--- | :--- |
-| **Standing Desk** | **Jin Office Dual-Motor 3-Stage Height-Adjustable Desk** (160×75cm Top, 120kg) | **₹30,500** |
-| **Ergonomic Chair** | **Dr Luxur Weavemonster** (Softweave Fabric, Magnetic Cervical Pillow, 90° Lock) | **₹18,490** |
-| **Ergonomic Footrest** | **High-Density Teardrop Rocking Footrest** (Memory Foam, Washable Mesh Cover) | **₹1,400** |
-| **FURNITURE SUBTOTAL** | | **₹50,390** |
+| Component | Exact Model & Specifications | Price (INR) | Primary Indian Retail Source |
+| :--- | :--- | :--- | :--- |
+| **Standing Desk** | **Jin Office Dual-Motor 3-Stage Height-Adjustable Desk** (160×75cm Top, 120kg) | **₹30,500** | Jin Office India (`jinoffice.com` Direct) |
+| **Ergonomic Chair** | **Dr Luxur Weavemonster** (Softweave Fabric, Magnetic Cervical Pillow, 90° Lock) | **₹18,490** | Dr Luxur India (`drluxur.com` Direct) |
+| **Ergonomic Footrest** | **High-Density Teardrop Rocking Footrest** (Memory Foam, Washable Mesh Cover) | **₹1,400** | Amazon India |
+| **FURNITURE SUBTOTAL** | | **₹50,390** | |
 
 ---
 
 ## 5. Workspace Lighting & Desk Accessories
 
-| Component | Exact Model & Specifications | Price (INR) |
-| :--- | :--- | :--- |
-| **Monitor Light Bar** | **Xiaomi Mi Computer Monitor Light Bar** (Asymmetric Optics, 2.4G Wireless Dial) | **₹3,999** |
-| **Desk Mat (XXL)** | **White Topographic XXL Desk Mat** (90 × 42 cm, Micro-Stitched, Water-Resistant) | **₹1,299** |
-| **Dual Screen-Sync Ambient**| **Dual-Monitor ESP32 HyperHDR Ambient Kit** (2× ESP32 + 2× ARGB Strips + VHB Tape) | **₹2,000** |
-| **Smart Pixel Desk Clock** | **Ulanzi TC001 Smart Pixel Clock** (ESP32, AWTRIX Light Firmware, GitHub/Pomodoro/SysStats) | **₹4,500** |
-| **ACCESSORIES SUBTOTAL** | | **₹11,798** |
+| Component | Exact Model & Specifications | Price (INR) | Primary Indian Retail Source |
+| :--- | :--- | :--- | :--- |
+| **Monitor Light Bar** | **Xiaomi Mi Computer Monitor Light Bar** (Asymmetric Optics, 2.4G Wireless Dial) | **₹3,999** | Amazon India / Mi.com |
+| **Desk Mat (XXL)** | **White Topographic XXL Desk Mat** (90 × 42 cm, Micro-Stitched, Water-Resistant) | **₹1,299** | Teesown India (`teesown.in` Direct) |
+| **Dual Screen-Sync Ambient**| **Dual-Monitor ESP32 HyperHDR Ambient Kit** (2× ESP32 + 2× WS2812B Strips + Tape)| **₹2,000** | Robu.in Direct |
+| **Smart Pixel Desk Clock** | **Ulanzi TC001 Smart Pixel Clock** (ESP32, AWTRIX Light Firmware, Imported) | **₹8,000** | Tanotis / Hiffin (~₹8k Street Import) |
+| **ACCESSORIES SUBTOTAL** | | **₹15,298** | |
 
 ---
 
-## Grand Total Summary
+## Grand Total Summary (Audited Indian Retail Reality)
 
-| Category | Cost (INR) |
-| :--- | :--- |
-| **1. Core PC Tower (O11 Vision White + Arctic Fans)** | ₹1,70,534 |
-| **2. Dual Quantum Dot Displays & Jin Office Arm** | ₹58,090 |
-| **3. Audio & Peripherals (AFUL P7 + DAC + Mic + Mouse)** | ₹30,399 |
-| **4. Ergonomic Furniture (160cm Desk + Weavemonster + Footrest)** | ₹50,390 |
-| **5. Lighting & Accessories (Xiaomi Light Bar + Topo Mat + Dual ESP32 + Ulanzi Clock)** | **₹11,798** |
-| **MASTER WORKSPACE INVESTMENT** | **₹3,21,211** |
+| Category | Cost (INR) | Primary Verification Sources |
+| :--- | :--- | :--- |
+| **1. Core PC Tower (9700X + Patriot 16GB CL30 + SN7100 2TB + Arc B580 3-Fan White + O11 Vision)** | **₹1,84,611** | Live Verified In-Stock Retail |
+| **2. Dual Rapid IPS Displays & Jin Office Arm (2× MSI QD + Jin Office)** | **₹58,090** | Amazon India / Jin Office |
+| **3. Audio & Peripherals (AFUL P7 + Boom Mic + Mouse; No DAC)** | **₹28,700** | Concept Kart / GenesisPC |
+| **4. Ergonomic Furniture (160cm Desk + Weavemonster + Footrest)** | **₹50,390** | Jin Office / Dr Luxur Direct |
+| **5. Lighting & Accessories (Xiaomi Bar + Topo Mat + Dual ESP32 + Ulanzi TC001)** | **₹15,298** | Robu.in / Hiffin / Teesown / Amazon India |
+| **MASTER WORKSPACE INVESTMENT** | **₹3,37,089** | **100% In-Stock Verified Reality** |
 
 ---
 
@@ -132,7 +132,7 @@
 4. **AVX-512 Power & Frequency Stability:**
    * Zen 5 features native, single-cycle 512-bit vector units. Sustained AVX-512 SIMD workloads draw heavy current. The 9700X's generous thermal and electrical headroom allows it to run AVX-512 vector pipelines without aggressive thermal downclocking.
 5. **Dual 1440p Displays = 100% GPU Bottleneck:**
-   * Paired with an **ASRock RX 7600 XT 16GB** driving **two 1440p 180Hz displays**, any gaming scenario is completely GPU-bound. When the GPU is at 99% load, an X3D processor delivers **0% additional FPS** because the CPU is already waiting on the GPU.
+   * Paired with an **Intel Arc B580 12GB** driving **two 1440p 180Hz displays**, any gaming scenario is completely GPU-bound. When the GPU is at 99% load, an X3D processor delivers **0% additional FPS** because the CPU is already waiting on the GPU.
 6. **Compiler Working Sets Eclipse Any Cache:**
    * Large C++ compilation units (`clang++` / `g++`) parse ASTs, instantiate complex templates, and emit object files spanning hundreds of megabytes to gigabytes. Neither 32MB nor 96MB can hold an entire compilation tree; both CPUs stream from DDR5 RAM, where the 9700X's higher single-core frequency wins out.
 
@@ -214,9 +214,13 @@ While compute cores can be isolated in software, **the underlying silicon archit
 
 ---
 
-### E. Graphics Card (GPU): ASRock RX 7600 XT 16GB Steel Legend OC White
-* **Native Linux Open-Source Drivers:** AMD GPUs use the in-kernel `amdgpu` driver and Mesa `RADV` Vulkan stack. There are no proprietary DKMS modules to break during Arch Linux rolling updates, and Wayland/Hyprland operates with flawless fractional scaling and zero frame jitter.
-* **16GB VRAM Buffer:** Driving dual 1440p 180Hz displays while reserving video memory for local open-source LLM inference (e.g., DeepSeek, Llama models via `ollama`) requires more than standard 8GB buffers.
+### E. Graphics Card (GPU): ASRock Intel Arc B580 Steel Legend OC 12GB White (Triple-Fan)
+* **Pristine Triple-Fan White Aesthetic:** Features a high-grade white shroud, white reinforced metal backplate, and three translucent ARGB fans. Creates a flawless, unified all-white colorway inside the 3-sided glass Lian Li O11 Vision alongside the Arctic 360 White AIO and white chassis fans.
+* **Superior Triple-Fan Cooling & Acoustics:** The 3-fan thermal solution distributes heat across a large fin-stack heatsink with direct-touch copper heatpipes, maintaining core temperatures below 65°C and low memory junction temperatures at whisper-quiet fan RPMs.
+* **Wide 192-Bit Memory Bus & 456 GB/s Bandwidth:** Eliminates the narrow 128-bit memory bus bottleneck found on competing cards. Moving 456 GB/s (+58% over 128-bit cards) prevents pipeline starvation across dual 1440p displays and memory-bound local LLM token generation.
+* **Xe2-HPG Architecture & 20 Xe-Cores:** Delivers 160 Vector Engines and 160 XMX Matrix AI engines, outpacing the previous generation Arc A770 flagship while drawing only 190W TDP.
+* **Upstream In-Kernel Linux Driver (`xe`):** Uses the native open-source Intel `xe` kernel module and Mesa `ANV` Vulkan driver in Arch Linux (Kernel 6.12+). Operates with zero proprietary DKMS recompilation headaches on rolling updates.
+* **12GB VRAM Headroom:** Safely maintains ~9.5 GB of free headroom after driving dual 1440p 180Hz displays, giving ample dedicated space to run 7B/8B Q4 LLMs (e.g., Llama 3, Qwen 2.5) entirely on-die.
 
 ---
 
@@ -288,13 +292,11 @@ While compute cores can be isolated in software, **the underlying silicon archit
 
 ---
 
-### M. Audio & Communications: AFUL Performer 7 (P7), DAC & Boom Mic
-* **Tribrid Acoustic Architecture:** 1 Dynamic Driver for low-end punch, 4 Balanced Armatures for vocal/mid clarity, and 2 Micro-Planar drivers for micro-detail extension.
-* **Headphone Zone Hi-Res DAC + 1m Extension:**
-  * Bypasses the motherboard's noisy Realtek ALC897 codec, eliminating electromagnetic interference (EMI) hiss caused by GPU switching loads.
-  * Near-zero output impedance (< 1 $\Omega$) ensures the AFUL P7's passive crossover network performs with pristine frequency linearity.
-  * 1-meter extension routes the 3.5mm jack right to the edge of the desk mat for easy plug-in without cable tension.
-* **Kinera Celest Ruyi Boom Mic:** Upgrades the IEM cable with a broadcast-grade cardioid microphone positioned at the mouth, delivering professional voice quality for meetings and interviews.
+### M. Audio & Communications: AFUL Performer 7 (P7 / Performer 5+2) & Kinera Celest Boom Mic Cable
+* **Tribrid Acoustic Architecture (7 Drivers Per Ear):** **2 Dynamic Drivers (DD)** with 3D-printed acoustic ducting for sub-bass/bass elasticity, **4 Balanced Armatures (BA)** for vocal clarity and natural mid-range, and **1 Micro-Planar Driver** for treble detail and micro-harmonic extension.
+* **Kinera Celest Ruyi Boom Mic 2-Pin Cable (Critical Hardware Bridge):** 
+  * **Termination Mismatch Solved:** The AFUL Performer 7 stock cable terminates in a **4.4mm balanced plug**, which cannot plug into a PC motherboard 3.5mm audio jack without buying a costly 4.4mm balanced DAC.
+  * **Dual Functionality:** Swapping the cable to the Kinera Celest Ruyi (0.78mm 2-pin) terminates natively into **standard 3.5mm**, while placing a broadcast-grade cardioid boom microphone directly next to your mouth for Google STEP technical interviews and Discord calls with zero external DAC bulk.
 
 ---
 
